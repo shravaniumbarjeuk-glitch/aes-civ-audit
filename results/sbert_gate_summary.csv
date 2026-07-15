@@ -1,0 +1,7 @@
+Perturbation,Applied,Passed,Failed,Pass Rate,Mean Similarity
+P1 Lexical Formality,15368,15368,0,100.0%,0.9986
+P2 Connective Density,15570,15456,114,99.3%,0.9682
+P3 Syntactic Voice,13443,12224,1219,90.9%,0.9583
+P4 Discourse Weakening,3533,1595,1938,45.1%,0.8233
+P5 Structural Disruption,3947,3926,21,99.5%,0.9877
+P6 Length Extension,15594,15456,138,99.1%,0.9947

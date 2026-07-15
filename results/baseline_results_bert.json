@@ -1,0 +1,33 @@
+{
+  "model": "bert-base-uncased",
+  "dataset": "PERSUADE 2.0",
+  "train_essays": 12464,
+  "val_essays": 1558,
+  "test_essays": 1559,
+  "epochs": 4,
+  "best_epoch": 4,
+  "best_val_qwk": 0.821,
+  "test_qwk": 0.8283,
+  "test_mae": 0.3977,
+  "test_accuracy": 0.6216,
+  "train_losses": [
+    0.0347,
+    0.0172,
+    0.0141,
+    0.0113
+  ],
+  "val_losses": [
+    0.0217,
+    0.0167,
+    0.0148,
+    0.0148
+  ],
+  "val_qwks": [
+    0.792,
+    0.8105,
+    0.819,
+    0.821
+  ],
+  "target_qwk": 0.75,
+  "target_met": true
+}

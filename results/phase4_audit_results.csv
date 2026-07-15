@@ -1,0 +1,13 @@
+perturbation,model,n,MAS,signed_shift,band_change_pct
+P1_lexical_formality,BERT,15368,0.0492,-0.0097,4.72
+P2_connective_density,BERT,15456,0.2428,0.1952,24.62
+P3_syntactic_voice,BERT,12224,0.1919,-0.1706,18.23
+P4_discourse_weakening,BERT,1595,0.1371,-0.1127,12.66
+P5_structural_disrupt,BERT,3926,0.0915,-0.0778,9.02
+P6_length_extension,BERT,15456,0.293,0.285,30.03
+P1_lexical_formality,Longformer,15368,0.0467,0.0317,4.45
+P2_connective_density,Longformer,15456,0.1995,-0.1187,19.31
+P3_syntactic_voice,Longformer,12224,0.4658,-0.4602,45.67
+P4_discourse_weakening,Longformer,1595,0.1258,-0.107,12.16
+P5_structural_disrupt,Longformer,3926,0.0931,-0.07,8.51
+P6_length_extension,Longformer,15456,0.1706,0.1687,16.75

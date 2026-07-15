@@ -1,0 +1,37 @@
+{
+  "model": "allenai/longformer-base-4096",
+  "dataset": "PERSUADE 2.0",
+  "max_len": 1024,
+  "effective_batch": 16,
+  "train_essays": 12464,
+  "val_essays": 1558,
+  "test_essays": 1559,
+  "epochs": 4,
+  "best_epoch": 4,
+  "best_val_qwk": 0.852,
+  "test_qwk": 0.8555,
+  "test_mae": 0.3355,
+  "test_accuracy": 0.6754,
+  "adjacent_accuracy": 0.9897,
+  "train_losses": [
+    0.039,
+    0.0174,
+    0.0131,
+    0.0106
+  ],
+  "val_losses": [
+    0.0326,
+    0.013,
+    0.0126,
+    0.0112
+  ],
+  "val_qwks": [
+    0.7306,
+    0.8175,
+    0.8365,
+    0.852
+  ],
+  "bert_test_qwk": 0.8283,
+  "target_qwk": 0.75,
+  "target_met": true
+}
