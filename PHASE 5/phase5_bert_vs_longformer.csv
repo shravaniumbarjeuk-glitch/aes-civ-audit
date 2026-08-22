@@ -1,7 +1,0 @@
-perturbation,n_paired,mean_LF_minus_BERT,dz,p_raw,p_holm,significant_5pct
-P1_lexical_formality,15368,-0.0025,-0.037,0.0001,0.0006,True
-P2_connective_density,15456,-0.0434,-0.179,0.0001,0.0006,True
-P3_syntactic_voice,12224,0.2739,1.096,0.0001,0.0006,True
-P4_discourse_weakening,1595,-0.0113,-0.068,0.0068,0.0136,True
-P5_structural_disrupt,3926,0.0016,0.012,0.4564,0.4564,False
-P6_length_extension,15456,-0.1224,-0.674,0.0001,0.0006,True
